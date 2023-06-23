@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/discord-harmony/core#readme",
   "dependencies": {
-    "cross-spawn": "^6.0.5",
+    "cross-spawn": "^7.0.3",
     "discord.js": "^11.5.1",
     "dotenv": "^8.0.0"
   }
